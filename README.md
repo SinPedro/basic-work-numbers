@@ -1,1 +1,1 @@
-selencionado números e realizando contas 
+#selencionado números e realizando contas 
